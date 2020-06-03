@@ -210,6 +210,7 @@ GEM
       tilt
     shoulda-matchers (4.3.0)
       activesupport (>= 4.2.0)
+    shutup (0.1.2)
     simplecov (0.18.5)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
@@ -277,6 +278,7 @@ DEPENDENCIES
   sass-rails (~> 5.0)
   sassc-rails (>= 2.1.0)
   shoulda-matchers
+  shutup
   simplecov
   spring
   spring-watcher-listen (~> 2.0.0)
